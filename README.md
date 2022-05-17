@@ -1,10 +1,10 @@
 Hi 👋 My name is Clever Arnez Ponce
 ===================================
 
-Front-End y UI/UX (Ing. Sistemas y Gráfico)
+Front-End y UI/UX (Ing. Sistemas y Diseño Gráfico)
 -------------------------------------------
 
-Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Gráfico - Vivo en Cochabamba - Bolivia
+Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño Gráfico - Vivo en Cochabamba - Bolivia
 
 * 🌍  I'm based in Bolivia
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/ArnezClever)

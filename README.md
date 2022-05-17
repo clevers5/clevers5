@@ -12,9 +12,6 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Gráfic
 * 🧠  I'm learning Angular y Figma
 * ⚡  Me gusta el  y tocar la guitarra
 
-<a href="https://www.twitter.com/arnez_clever" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/arnez_clever?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 

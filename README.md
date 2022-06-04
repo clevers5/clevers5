@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6000&color=2CF7C2&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=Hola%2C+mi+nombre+es+Clever+Arnez+Ponce)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6000&color=2CF7C2&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=Hola+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">+mi+nombre+es+Clever+Arnez+Ponce)](https://git.io/typing-svg)
 ===================================
 
 Front-End y UI/UX (Ing. Sistemas y Diseño Gráfico)

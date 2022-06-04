@@ -12,6 +12,11 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 * 🧠  I'm learning Angular y Figma
 * ⚡  Me gusta el  y tocar la guitarra
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Skills
 

@@ -61,5 +61,4 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=clevers5&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31a66qzanapfcsbarpjwjnwt4n4q)
 

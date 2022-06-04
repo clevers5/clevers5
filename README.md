@@ -51,7 +51,7 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 
 <a href="https://github.com/clevers5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevers5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-https://github-profile-trophy.vercel.app/?username=clevers5&theme=nord
+https://github-profile-trophy.vercel.app/?username=clevers5
 
 
 

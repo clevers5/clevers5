@@ -56,7 +56,7 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 
 <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevers5=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevers5&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=clevers5&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)

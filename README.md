@@ -10,7 +10,7 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/ArnezClever)
 * ✉️  You can contact me at [arnez.4292@gmail.com](mailto:arnez.4292@gmail.com)
 * 🧠  I'm learning Angular y Figma
-* ⚡  Me gusta el  y tocar la guitarra
+* ⚡  Me gusta el futbol y tocar la guitarra
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">

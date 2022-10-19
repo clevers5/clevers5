@@ -7,8 +7,9 @@ Front-End developer y UI/UX (Ing. Sistemas y Diseño Gráfico)
 Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño Gráfico
 
 * 🌍  vivo en <strong> Cochabamba - Bolivia <strong>
-* 🖥️  Este es mi portafolio [Behance](http://www.behance.net/ArnezClever)
-* ✉️  Contacto: [arnez.4292@gmail.com](mailto:arnez.4292@gmail.com)
+* 🖥️  Este es mi portafolio de diseño [Behance](http://www.behance.net/ArnezClever)
+* 🖥️  Contacto [LinkedIn](https://www.linkedin.com/in/arnezponceclever/)
+* ✉️  Correo: [arnez.4292@gmail.com](mailto:arnez.4292@gmail.com)
 * 🧠  Estoy aprendiendo Angular y Figma
 * ⚡  Me gusta el futbol y tocar la guitarra
 

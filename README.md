@@ -10,7 +10,7 @@ Actualmente me desenvuelvo en de Desarrollo web y UI/UX con la ayuda del Diseño
 * 🖥️  Este es mi portafolio de diseño [Behance](http://www.behance.net/ArnezClever)
 * 🖥️  Contacto [LinkedIn](https://www.linkedin.com/in/arnezponceclever/)
 * ✉️  Correo: [arnez.4292@gmail.com](mailto:arnez.4292@gmail.com)
-* 🧠  Actualmente estoy aprendiendo Flutter
+* 🧠  Actualmente estoy mejorando mis habilidades en Flutter y React
 * ⚡  Me gusta el futbol y tocar la guitarra
 
 ### Skills
